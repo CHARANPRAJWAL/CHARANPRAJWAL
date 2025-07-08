@@ -9,12 +9,9 @@
 ### 🌟 About Me
 
 - 💻 DevOps Engineer with 2+ years of experience in:
-  - Automating Cloud Infrastructure (AWS, DigitalOcean)
+  - Automating Cloud Infrastructure (AWS, DigitalOcean, Azure)
   - Building CI/CD pipelines (GitHub Actions, ArgoCD)
   - Managing Kubernetes environments
-- ✍️ I write on DevOps, GitOps, and Cloud tools  
-  → [Read my blogs on Medium](https://charanprajwal.medium.com/)
-- 🎤 Speaker at Tech Talks: [ArgoCD GitOps Automation](https://youtu.be/qfa3comzEXU?si=ttDNbBkgGoiHXxuF)
 
 ---
 
