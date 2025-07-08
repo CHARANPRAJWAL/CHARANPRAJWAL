@@ -39,7 +39,7 @@
   Modular Ansible playbooks to automate server environments and DB replication setups.
 
 - 🎯 **[K3s Deployment Automation](https://github.com/CHARANPRAJWAL/k3s-deployment-automation)**  
-  Automated provisioning of lightweight Kubernetes clusters with Ansible + HAProxy.
+  Automated provisioning of lightweight Kubernetes clusters with Ansible.
 
 - 📦 **[ArgoCD App-of-Apps GitOps Setup](https://github.com/CHARANPRAJWAL/example-voting-app-argocd-k8s)**  
   Built GitOps deployment of microservices using Helm-based App-of-Apps pattern.
