@@ -1,50 +1,71 @@
-<h1 align="center">Hi 👋, I'm Charan Prajwal</h1>
-
+<h1 align="center">Hi, I'm Charan Prajwal 👋</h1>
 <p align="center">
-🚀 DevOps Engineer | 🔧 Automation Enthusiast | ☁️ Cloud & Kubernetes Explorer
+  DevOps Engineer | Kubernetes Enthusiast | Cloud Native Advocate
 </p>
 
 ---
 
-### 🌟 About Me
+### 🚀 About Me
 
-- 💻 DevOps Engineer with 2+ years of experience in:
-  - Automating Cloud Infrastructure (AWS, DigitalOcean, Azure)
-  - Building CI/CD pipelines (GitHub Actions, ArgoCD)
-  - Managing Kubernetes environments
+I'm a DevOps Engineer with 2+ years of experience building and automating cloud-native infrastructure. I specialize in:
 
----
+- ⚙️ CI/CD automation with GitHub Actions, Jenkins, GitLab CI
+- ☸️ Kubernetes deployments and Helm-based GitOps with ArgoCD
+- ☁️ Infrastructure provisioning using Terraform and Ansible
+- 📈 Building observability platforms with Prometheus, Grafana, Loki, and OpenTelemetry
 
-### 🛠️ My Toolbox
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
-![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)
+I love designing tools and processes that **make life easier for developers** and **more stable for systems**. Whether it’s automating repetitive ops tasks, enabling self-service provisioning, or improving deployment reliability—I'm always looking for better, simpler ways to scale engineering.
 
 ---
 
-### 📌 Highlight Projects
+### 🛠 Tech Stack
 
-- 🔧 **[Ansible Ops Collection](https://github.com/CHARANPRAJWAL/ansible-ops-collection)**  
-  Modular Ansible playbooks to automate server environments and DB replication setups.
-
-- 🎯 **[Cloud-Native Observability Stack](https://github.com/CHARANPRAJWAL/otel-observability-stack)**  
-  observability using OpenTelemetry, Prometheus, Grafana, Loki, and Tempo. Instrumented sample Node.js apps.
-
-- 📦 **[ArgoCD App-of-Apps GitOps Setup](https://github.com/CHARANPRAJWAL/example-voting-app-argocd-k8s)**  
-  Built GitOps deployment of microservices using Helm-based App-of-Apps pattern.
+- **Cloud**: AWS, Azure, DigitalOcean  
+- **Containers**: Docker, Kubernetes, Helm  
+- **Infra as Code**: Terraform, Ansible  
+- **CI/CD**: GitHub Actions, Jenkins, ArgoCD  
+- **Monitoring & Tracing**: Prometheus, Grafana, Loki, Tempo, OpenTelemetry  
+- **Languages**: Python, Bash, JavaScript  
+- **Databases**: MySQL, PostgreSQL  
+- **Other**: Git, Linux, Networking (DNS, Load Balancing, Firewalls)
 
 ---
 
-### 📫 Reach Me
+### 🧠 Certifications
 
-- 📧 charanprajwal001@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/charan-prajwal001)
-- 📚 [Medium Blog](https://charanprajwal.medium.com/)
+- ✅ [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-gb/users/charanprajwal-8277/credentials/7a0af9054372f19f)  
+- 🛠 AWS Developer Associate (In Progress)
+
+---
+
+### 📢 Talks & Writing
+
+- 🎙️ [Tech Talk: ArgoCD GitOps on Kubernetes (YouTube)](https://youtu.be/qfa3comzEXU?si=ttDNbBkgGoiHXxuF)  
+- ✍️ [DevOps Blogs on Medium](https://charanprajwal.medium.com/)  
+  Topics include GitOps, Observability, Helm, and real-world DevOps challenges.
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🧭 ArgoCD GitOps + Helm App of Apps](https://github.com/CHARANPRAJWAL/example-voting-app-argocd-k8s) | GitOps deployment pipeline using ArgoCD + Helm for scalable Kubernetes rollouts | ArgoCD, Helm, Kubernetes, GitHub Actions |
+| [⚙️ Ansible Ops Automation Collection](https://github.com/CHARANPRAJWAL/ansible-ops-collection) | Modular Ansible roles for DB setup, server config, backups, and monitoring | Ansible, Linux, MySQL, PostgreSQL |
+| [📊 Cloud-Native Observability Stack](https://github.com/CHARANPRAJWAL/otel-observability-stack) | Observability with OpenTelemetry, Prometheus, Loki, Tempo & Grafana | OpenTelemetry, Prometheus, Docker, Grafana |
+
+---
+
+### 📫 Let’s Connect!
+
+- 🔗 [LinkedIn](https://linkedin.com/in/charan-prajwal001)  
+- 📧 charanprajwal001@gmail.com  
+- 🌐 [charanprajwal.medium.com](https://charanprajwal.medium.com)  
+- 💼 Looking for my resume? [Check it here →](#) *(insert PDF or repo link)*
+
+---
+
+> “Automation doesn’t just save time—it enables creativity, confidence, and scale.”  
+> — Me, probably during an incident postmortem 😅
+
+Thanks for stopping by 👋
