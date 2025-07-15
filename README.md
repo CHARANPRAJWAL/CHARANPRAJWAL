@@ -35,8 +35,8 @@
 - 🔧 **[Ansible Ops Collection](https://github.com/CHARANPRAJWAL/ansible-ops-collection)**  
   Modular Ansible playbooks to automate server environments and DB replication setups.
 
-- 🎯 **[K3s Deployment Automation](https://github.com/CHARANPRAJWAL/k3s-deployment-automation)**  
-  Automated provisioning of lightweight Kubernetes clusters with Ansible.
+- 🎯 **[Cloud-Native Observability Stack](https://github.com/CHARANPRAJWAL/otel-observability-stack)**  
+  observability using OpenTelemetry, Prometheus, Grafana, Loki, and Tempo. Instrumented sample Node.js apps.
 
 - 📦 **[ArgoCD App-of-Apps GitOps Setup](https://github.com/CHARANPRAJWAL/example-voting-app-argocd-k8s)**  
   Built GitOps deployment of microservices using Helm-based App-of-Apps pattern.
