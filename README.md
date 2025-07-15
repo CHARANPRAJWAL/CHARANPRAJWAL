@@ -61,7 +61,6 @@ I love designing tools and processes that **make life easier for developers** an
 - 🔗 [LinkedIn](https://linkedin.com/in/charan-prajwal001)  
 - 📧 charanprajwal001@gmail.com  
 - 🌐 [charanprajwal.medium.com](https://charanprajwal.medium.com)  
-- 💼 Looking for my resume? [Check it here →](#) *(insert PDF or repo link)*
 
 ---
 
