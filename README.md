@@ -23,8 +23,8 @@ DevOps Engineer with **2+ years of experience** designing, automating, and scali
 **CI/CD & GitOps:** GitHub Actions, Jenkins, GitLab CI, ArgoCD  
 **Monitoring & Observability:** Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Fluentd  
 **Databases:** MySQL, PostgreSQL  
-**Networking:** TCP/IP, DNS, Load Balancing  
-**Version Control:** Git, GitHub
+**Networking:** TCP/IP, DNS, Load Balancing etc.  
+**Version Control:** Git, GitHub , GitLab 
 
 ##  Certifications
 
