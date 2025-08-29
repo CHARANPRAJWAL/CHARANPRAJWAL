@@ -186,7 +186,6 @@ spec:
 ```yaml
 status:
   currentFocus:
-  - 🔭 Architecting **Cloud-Native** solutions for enterprise scalability
   - 🌱 Mastering **Service Mesh** technologies and **Advanced Kubernetes** patterns  
   - 👯 Open to collaborating on **Open Source** DevOps tools and **GitOps** innovations
   - 💬 Ask me about **DevOps**, **Kubernetes**, **ArgoCD**, or **Cloud Architecture**
